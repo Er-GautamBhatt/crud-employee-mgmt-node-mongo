@@ -1,4 +1,3 @@
-
 ![Build an expense tracker app in Django](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ee/30e84af52548c9ad6ae3afedead1bd/Screen-Shot-2023-02-17-at-10.40.13-AM.png?auto=format%2Ccompress&dpr=1)
 # crud-employee-mgmt-node-mongo
 Build an expense tracker app in Django
@@ -39,4 +38,3 @@ The team at Apollonia Dental Practice is trying to set the foundations to digita
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-3c873a?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
-
